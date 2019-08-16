@@ -76,7 +76,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n  \"FirstName\": \"kllll\",\r\n  \"LastName\": \"kkkkk\",\r\n  \"DateOfBirth\": \"2000-02-05T00:00:00\",\r\n  \"Resident\": \"ResidentTest\",\r\n  \"PrivateID\": 12845678919,\r\n  \"Gender\": \"Female\",\r\n  \"RegistrationDate\": \"2019-08-15T00:00:00\",\r\n  \"RegistrationIP\": \"TestIP\",\r\n  \"Language\": \"ქართული\",\r\n  \"Email\": \"Test96@gmail.com\",\r\n  \"Mobile\": \"+99559103353333\",\r\n  \"Password\": \"Password2\",\r\n  \"Country\": \"GEORGIA\",\r\n  \"RegionState\": \"Region\",\r\n  \"City\": \"TBILISSI\",\r\n  \"Address1\": \"aDDRESS\",\r\n  \"Address2\": \"\",\r\n  \"PostalCode\": \"1234\"\r\n}"
+					"raw": "{\r\n  \"FirstName\": \"Name\",\r\n  \"LastName\": \"kkkkk\",\r\n  \"DateOfBirth\": \"2000-02-05T00:00:00\",\r\n  \"Resident\": \"ResidentTest\",\r\n  \"PrivateID\": 12845678919,\r\n  \"Gender\": \"Female\",\r\n  \"RegistrationDate\": \"2019-08-15T00:00:00\",\r\n  \"RegistrationIP\": \"TestIP\",\r\n  \"Language\": \"ქართული\",\r\n  \"Email\": \"Test96@gmail.com\",\r\n  \"Mobile\": \"+99559103353333\",\r\n  \"Password\": \"Password2\",\r\n  \"Country\": \"GEORGIA\",\r\n  \"RegionState\": \"Region\",\r\n  \"City\": \"TBILISSI\",\r\n  \"Address1\": \"aDDRESS\",\r\n  \"Address2\": \"\",\r\n  \"PostalCode\": \"1234\"\r\n}"
 				},
 				"url": {
 					"raw": "https://localhost:44330/api/Customer/register",
