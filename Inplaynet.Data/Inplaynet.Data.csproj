@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="9.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.0.0-preview5-19227-01" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.0.0-preview5.19227.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.0.0-preview5.19227.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Inplaynet.Model\Inplaynet.Model.csproj" />
+  </ItemGroup>
+
+</Project>
